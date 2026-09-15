@@ -1,3 +1,6 @@
+The managed framework guidance below applies to Next.js API and convention changes.
+Documentation-only and unrelated backend work use their own relevant checks.
+
 <!-- BEGIN:nextjs-agent-rules -->
 
 # This is NOT the Next.js you know
